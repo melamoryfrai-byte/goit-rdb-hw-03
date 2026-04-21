@@ -2,7 +2,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-Workbench-blue)
 ![SQL](https://img.shields.io/badge/SQL-Basic-green)
-![Status](https://img.shields.io/badge/status-completed-success)
+
 
 ---
 
